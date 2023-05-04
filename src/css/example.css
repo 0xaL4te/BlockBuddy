@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman';
+    color: #F6F1F1;
+    background-color:#146C94;
+}
+
+.top{
+margin-top:50px;
+margin-left:90px;
+}
+.listgroup{
+    list-style-type:'none';
+    display: 'inline-block';
+    padding-left: 1000px;
+    font-size: larger;
+    margin-top: -42px;
+}

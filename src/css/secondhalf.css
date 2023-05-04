@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.life{
+    padding-right: 150px;
+}
